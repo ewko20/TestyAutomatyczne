@@ -177,6 +177,7 @@ namespace SeleniumTests
             Thread.Sleep(3000);
             var seeCart = driver.FindElement(By.XPath("/html/body/div/div[2]/div/div[2]/main/ul/li[3]/a[3]"));
             seeCart.Click();
+            //TestyWypychania na Gita
 
 
 
